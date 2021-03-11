@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
-      "id": 643,
-      "text": "Task3",
-      "day": "DateTime3",
+      "id": 953,
+      "text": "Meeting",
+      "day": "Thursday 8:00",
       "reminder": false
     },
     {
-      "id": 241,
-      "text": "111",
-      "day": "1",
-      "reminder": true
+      "id": 247,
+      "text": "Project",
+      "day": "Friday 8:00",
+      "reminder": false
     }
   ]
 }
